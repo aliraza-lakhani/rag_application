@@ -1,0 +1,34 @@
+# Core Python stdlib imports (no need to include)
+# os
+# tempfile
+
+# Streamlit
+streamlit
+
+# FastAPI and server
+fastapi
+uvicorn
+
+# LlamaIndex and integrations
+llama-index
+
+# For OpenAI integration
+openai
+
+# For embedding and LLM support
+tiktoken
+
+# For Chroma vector store
+chromadb
+
+# Langfuse logging integration
+langfuse
+
+# You may also want to pin versions for consistency:
+# llama-index==0.10.x
+# openai==1.x
+# chromadb==0.4.x
+# fastapi==0.110.x
+# uvicorn==0.27.x
+# streamlit==1.33.x
+# langfuse==2.x
