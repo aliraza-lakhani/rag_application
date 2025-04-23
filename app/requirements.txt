@@ -10,7 +10,7 @@ fastapi
 uvicorn
 
 # LlamaIndex and integrations
-llama-index
+llama-index==0.12.31
 
 # For OpenAI integration
 openai
